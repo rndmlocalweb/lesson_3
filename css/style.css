@@ -1,0 +1,33 @@
+div{
+	color: red;
+}
+a{
+	color: blue
+}
+.first-text{
+	color:green
+}
+#faq{
+	color:aqua
+}
+.techno,
+.js{
+	color: black;
+}
+.cms-filter.about{
+	color: blueviolet;
+}
+.other p{
+	color: chocolate;
+}
+.other > p{
+	color: cornsilk;
+}
+.other ~ p{
+	color: gold;
+}
+.other + p{
+	color: magenta;}
+	#creative-directory *{
+		color: steelblue;
+	}
